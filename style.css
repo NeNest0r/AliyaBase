@@ -112,7 +112,7 @@ header::after {
   max-height: 100vh;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   width: 100%;
 }
 .promo-materials .text-and-photo {
@@ -560,3 +560,4 @@ header img[alt="photo1"] {
   position: relative;
   z-index: 1;
 }
+
